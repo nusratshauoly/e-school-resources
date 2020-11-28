@@ -1,0 +1,276 @@
+
+body{
+    background-color:#E5E5E5;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  margin-bottom: 60px;
+}
+
+/* navbar starts here */
+
+.logo-image{
+
+width: 198.07px;
+height: 59px;
+}
+
+.gap{
+    padding:10px;
+    
+}
+
+.common-button{
+
+width: 104px;
+height: 43px;
+background: #21B573;
+border-radius: 33px;
+border-style:none;
+color:white;
+
+}
+
+.center{
+  align-items: center;  
+}
+
+/* learn with fun */
+
+.img-size img{
+ 
+width:100%;
+
+}
+
+.padding{
+  
+padding: 12px 36px;
+
+width: 163px;
+height: 43px;
+
+background: #21B573;
+border-radius: 33px; 
+  
+}
+
+.red-heading{
+  
+font-size: 16px;
+color: #FD511A;
+
+}
+
+
+.header{
+font-weight: bold;
+font-size: 45px;
+line-height: 60px;
+color: #000000;
+
+}
+
+.gray-heading{
+  font-size: 16px;
+line-height: 30px;
+color: #6C6B6B;
+top:300px;
+}
+
+
+/* books starts from here */
+
+
+
+.icon-image{ 
+width: 95%;
+height: 270px;
+
+background: #F8FFFB;
+border-radius: 10px;
+margin:20px auto;
+padding:20px;
+
+}
+
+.container .icon-image{
+  padding:0px;
+  margin:0px;
+}
+.icon-image1{
+
+  width: 95;
+  height: 270px;
+  background: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+
+}
+
+.image1 img{
+width: 66px;
+height: 85px;
+margin-top:60px;
+}
+
+.image2 img{
+  width: 80px;
+  height: 83px;
+  margin-top:60px;
+}
+
+.image3 img{
+  width: 75px;
+  height: 80px;
+  margin-top:60px;
+}
+
+.image4 img{
+  width: 68px;
+  height: 76px;
+  margin-top:60px;
+}
+
+.div h6{
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+text-align: center;
+margin-top:20px;
+}
+
+.div p{
+
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+text-align: center;
+
+}
+
+/* courses starts here */
+.footer-p{
+  text-align: center;
+}
+
+
+.date p{
+  display: inline-block; 
+  text-align: right;
+  float: left;
+  font-size:16px;
+  color:#585859;
+}
+.card-padding{
+  padding:10px 10px;
+  background: #FFFFFF;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  border-radius:18px;
+
+
+}
+
+
+.course-heading{
+ text-align:center;
+ margin-bottom:50px;
+ margin-top:-70px;
+ font-weight: bold;
+ font-size: 36px;
+ line-height: 54px;
+ color: #413960;
+
+}
+
+/* others starts from here */
+
+.others-heading{
+  margin-bottom: 40px;
+margin-top:-30px;
+text-align:center;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+color: #000000;
+
+}
+
+.testimonial-image img{
+  
+width: 120px;
+height: 120px;
+border-radius: 50px;
+margin-top:-70px;
+}
+ 
+.testimonial-p{
+
+font-size: 16px;
+line-height: 30px;
+color: #000000;
+
+
+}
+
+/* blog starts from here */
+
+  .footer{
+    background-color: #111;
+    color:white;
+}
+
+
+.footer-bottom{
+font-size: 16px;
+line-height: 30px;
+}
+
+.footer-bottom h3{
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+}
+
+
+
+.footer-bottom ul{
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+
+}
+
+.footer-bottom ul li{
+  margin: 10px 0;
+  
+
+}
+
+.footer-bottom ul li a{
+  text-decoration: none;
+  transition:.4s;
+  color:white;
+  
+}
+
+.footer-bottom ul li a:hover{
+  line-height: 1.5;
+  color:purple;
+
+}
+
+
+
+
+/* footer copyright */
+.footer-copyright{
+
+font-size: 16px;
+line-height: 30px;
+color: #CDCDCD;
+margin-bottom:-10px;
+}
