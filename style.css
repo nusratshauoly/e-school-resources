@@ -5,7 +5,7 @@ body{
 }
 
 .container{
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 
 /* navbar starts here */
@@ -48,7 +48,7 @@ width:100%;
   
 padding: 12px 36px;
 
-width: 163px;
+width: 160px;
 height: 43px;
 
 background: #21B573;
@@ -83,29 +83,22 @@ top:300px;
 /* books starts from here */
 
 
-
-.icon-image{ 
-width: 95%;
-height: 270px;
-
+.books1{ 
+width:270px;
+height:270px;
 background: #F8FFFB;
 border-radius: 10px;
-margin:20px auto;
-padding:20px;
-
 }
 
-.container .icon-image{
-  padding:0px;
-  margin:0px;
-}
-.icon-image1{
 
-  width: 95;
-  height: 270px;
+.books2{
+
+  width:270px;
+  height:270px;
   background: #FFFFFF;
   box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
+  
 
 }
 
@@ -113,6 +106,7 @@ padding:20px;
 width: 66px;
 height: 85px;
 margin-top:60px;
+
 }
 
 .image2 img{
@@ -159,8 +153,8 @@ text-align: center;
 
 .date p{
   display: inline-block; 
-  text-align: right;
-  float: left;
+  text-align:right;
+  float:left;
   font-size:16px;
   color:#585859;
 }
@@ -188,7 +182,7 @@ text-align: center;
 /* others starts from here */
 
 .others-heading{
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 margin-top:-30px;
 text-align:center;
 font-weight: bold;
@@ -213,6 +207,7 @@ line-height: 30px;
 color: #000000;
 
 
+
 }
 
 /* blog starts from here */
@@ -225,13 +220,14 @@ color: #000000;
 
 .footer-bottom{
 font-size: 16px;
-line-height: 30px;
+margin-top:30px;
+
 }
 
 .footer-bottom h3{
 font-weight: bold;
 font-size: 20px;
-line-height: 30px;
+
 
 }
 
@@ -258,7 +254,7 @@ line-height: 30px;
 }
 
 .footer-bottom ul li a:hover{
-  line-height: 1.5;
+  
   color:purple;
 
 }
@@ -267,6 +263,7 @@ line-height: 30px;
 
 
 /* footer copyright */
+
 .footer-copyright{
 
 font-size: 16px;
@@ -274,3 +271,42 @@ line-height: 30px;
 color: #CDCDCD;
 margin-bottom:-10px;
 }
+
+.footer-copyright a{
+  color: white;
+
+}
+
+.footer-copyright a:hover{
+  color:purple;
+}
+
+.footer-contact-item a{
+  color:white;
+
+
+}
+
+.footer-contact-item a:hover{
+  color:purple;
+}
+
+.footer-contact-item span{
+  display:inline-block;
+  margin-right: 15px;
+  font-size: 20px;
+
+}
+
+
+
+.footer-contact-item a{
+  text-decoration: none;
+  
+}
+.footer-copyright1{
+  margin-bottom:-100px;
+  
+}
+
+
